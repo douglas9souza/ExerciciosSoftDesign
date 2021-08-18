@@ -1,10 +1,10 @@
-<h1 align="center"> Projeto de automação de testes com Selenium WebDriver</h1>
+# Projeto de automação de testes com Selenium WebDriver
 
 - Este projeto segue os padrões de Page Object.
 
-<h3>Os testes automatizados são realizados no site https://seubarriga.wcaquino.me/cadastro, que já é um site destinado para testes com a ferramenta Selenium.</h3>
+### Os testes automatizados são realizados no site http://way2automation.com/way2auto_jquery/index.php, que já é um site destinado para automação de testes.
 
-<h3>Recursos utilizados:<h3>
+### Recursos utilizados:
 - Linguagem de programação Java
 - Selenium WebDriver
 - Junit
