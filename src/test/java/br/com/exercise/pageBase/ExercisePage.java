@@ -9,7 +9,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 import br.com.exercise.pageObjects.ExerciseObjects;
 
-import java.util.concurrent.TimeUnit;
 
 public class ExercisePage extends BasePage {
 
